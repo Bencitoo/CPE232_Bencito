@@ -12,7 +12,7 @@
   - name: install apache2 package
     apt:
       name: apache2
-    state: latest
+      state: latest
     when: ansible_distribution =="Ubuntu"
 
   - name: add PHP support for apache
