@@ -18,5 +18,5 @@
   - name: add PHP support for apache
     apt:
       name: libapache2-mod-php
-    state: latest
+      state: latest
     when: ansible_distribution == "Ubuntu"
