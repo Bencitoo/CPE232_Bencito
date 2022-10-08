@@ -1,3 +1,3 @@
 # CPE232_Bencito
-name = Daniel
+name = Sonnyjay
 email = qsjbbencito@tip.edu.ph
